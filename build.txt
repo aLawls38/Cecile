@@ -1,0 +1,3 @@
+displayName = Cecile Sword
+author = C0ff33
+version = 0.1
